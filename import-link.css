@@ -1,0 +1,15 @@
+.con {
+    color: blueviolet;
+    font-weight: bolder;
+}
+
+.des:hover {
+
+    cursor: pointer;
+    color: red;
+}
+.hel:hover{
+    color: coral;
+    cursor: pointer;
+}
+
